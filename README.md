@@ -1,7 +1,7 @@
 ## Hi guys 🤙, Eu sou o Otávio!
 👦🏻   Sou academico em Sistemas de Informação pela PUC Minas.
 
-🕹    
+🕹    Atualmente estagiário de desenvolvimento Fullstack.
 
 🎈    Estou estudando MySQL, .NET Framework C#, JavaScript, CSS and HTML.
 
