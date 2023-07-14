@@ -1,0 +1,51 @@
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.exe
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.deps.json
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.runtimeconfig.json
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.dll
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.pdb
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.AssemblyReference.cache
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.AssemblyInfoInputs.cache
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.AssemblyInfo.cs
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.CoreCompileInputs.cache
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.CopyComplete
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.dll
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\refint\Trabalho AED.dll
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.pdb
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.genruntimeconfig.cache
+C:\Users\1417383\source\repos\Trabalho AED\Trabalho AED\obj\Debug\net6.0\ref\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.exe
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.deps.json
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.runtimeconfig.json
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.pdb
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.AssemblyInfoInputs.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.AssemblyInfo.cs
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.CopyComplete
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\refint\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.pdb
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.genruntimeconfig.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Nova pasta (2)\Trabalho AED\Trabalho AED\Trabalho AED\obj\Debug\net6.0\ref\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.exe
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.deps.json
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.runtimeconfig.json
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Trabalho AED.pdb
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.AssemblyInfoInputs.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.AssemblyInfo.cs
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.csproj.CopyComplete
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\refint\Trabalho AED.dll
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.pdb
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\Trabalho AED.genruntimeconfig.cache
+C:\Users\otavi\OneDrive\Área de Trabalho\Trabalho AED\Trabalho AED\obj\Debug\net6.0\ref\Trabalho AED.dll

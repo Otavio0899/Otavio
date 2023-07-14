@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nR6rvi66q/vbAv013IqZ7RoGSqY1t29yPXZxebSUvwdoJL4ge29M+O0WN41RYQvV/LN+DrBTjd8lmPq3hjY1mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\otavi\\OneDrive\\Área de Trabalho\\Trabalho AED\\Trabalho AED\\Trabalho AED.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otavi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
